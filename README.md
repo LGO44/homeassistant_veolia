@@ -3,9 +3,24 @@
 [![GitHub Release][releases-shield]][releases]
 [![HACS Default](https://img.shields.io/badge/HACS-Default-blue.svg?style=for-the-badge)](https://hacs.xyz/docs/faq/custom_repositories)
 
-> ## UNIQUEMENT compatible avec le nouveau site de Veolia : https://www.eau.veolia.fr/
+> [!IMPORTANT]
 >
-> ## N'est PAS compatible avec les sous domaines suivant : https://service.eau.veolia.fr & https://espace-client.vedif.eau.veolia.fr
+> ## Message important concernant l’avenir de cette intégration :
+>
+> Ayant récemment déménagé dans une zone non couverte par Veolia, je n’ai désormais plus accès à un compte Veolia actif.
+>
+> Cela rend difficile le maintien, les tests et l’évolution du projet dans de bonnes conditions.
+> Je continuerai autant que possible à assurer le support, les corrections de bugs et la maintenance générale.
+>
+> Toutefois, pour garantir la pérennité de l’intégration et permettre son évolution, je recherche un ou plusieurs développeurs motivés pouvant m’aider à la faire avancer, tester les nouveautés et contribuer aux futures améliorations.
+>
+> Si vous êtes intéressé(e) pour rejoindre le développement ou simplement donner un coup de main sur certaines fonctionnalités, n’hésitez pas à ouvrir une issue ou à me contacter. Toute contribution, même modeste, est la bienvenue.
+>
+> Merci d’avance pour votre aide et votre engagement ! 💙
+
+> ### UNIQUEMENT compatible avec le nouveau site de Veolia : https://www.eau.veolia.fr/
+>
+> ### N'est PAS compatible avec les sous domaines suivant : https://service.eau.veolia.fr & https://espace-client.vedif.eau.veolia.fr
 
 ---
 
